@@ -1,0 +1,2 @@
+# FPS-
+基于MediaPipe和pydirectinput的深度学习辅助FPS瞄准，可以在屏幕中央的一个矩形区域内将鼠标自动移向任务的头部。
